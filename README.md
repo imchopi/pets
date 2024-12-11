@@ -1,3 +1,18 @@
 # Clasificador de Mascotas
 
-Aplicación hecha en Streamlit que carga un modelo previamente entrenado y clasifica mascotas en función del peso, altura, color de ojos y largo del pelo.
+¡Bienvenido a la aplicación de clasificación de mascotas! 🐾
+
+Esta herramienta está desarrollada con Streamlit y permite cargar un modelo previamente entrenado para clasificar mascotas según diferentes características:
+
+- **Peso**
+- **Altura**
+- **Color de ojos**
+- **Largo del pelo**
+
+## Ejemplo de Mascota
+
+![Perro](./img/perro.jpg)
+
+Puedes probar el clasificador y ver cómo funciona en el siguiente enlace:
+
+[**Clasificador de Mascotas**](https://classipets.streamlit.app/)
